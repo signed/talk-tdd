@@ -1,0 +1,19 @@
+:icons: font
+:linkattrs:
+:slides: .
+:imagedir: ../images
+= TDD
+An Introduction
+
+include::{slides}/text_munger.adoc[]
+
+include::{slides}/sandbox.adoc[]
+
+== !
+That's it! +
+Any Questions?
+
+[%notitle]
+== Melting Pot
+image::{imagedir}/bumper.jpg[canvas,size=contain]
+
