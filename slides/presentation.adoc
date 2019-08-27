@@ -3,9 +3,12 @@
 :slides: .
 :imagedir: ../images
 = TDD
+:customcss: my-css.css
 An Introduction
 
-include::{slides}/text_munger.adoc[]
+include::{slides}/tdd-cycle.adoc[]
+
+include::{slides}/text-munger.adoc[]
 
 include::{slides}/sandbox.adoc[]
 

@@ -1,0 +1,30 @@
+== Melting Pot
+Drivers for changing the production code
+- failing tests
+- duplication
+- refactoring
+
+=== Strategies to green
+https://stanislaw.github.io/2016/01/25/notes-on-test-driven-development-by-example-by-kent-beck.html
+strategies to get a test green as quick as possible
+- Fake it
+- Obvious implementation
+- Triangulation
+
+
+=== Refactoring techniques
+- Parallel Change
+- Transformation Priority Premise https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
+
+
+=== Directions
+- outside in
+- inside out
+=== this was fun, want to do more
+http://www.codingdojo.org/KataCatalogue/[Kata Catalogue^]
+
+[NOTE.speaker]
+--
+https://dzone.com/articles/tdd-example-in-software-development-part-i
+https://stanislaw.github.io/2016/01/25/notes-on-test-driven-development-by-example-by-kent-beck.html
+--

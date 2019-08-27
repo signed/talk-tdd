@@ -1,0 +1,21 @@
+== http://www.growing-object-oriented-software.com/figures.html[The TDD Cycle^]
+
+[%notitle]
+[background-color="white"]
+=== Melting Pot
+image::{imagedir}/tdd-simple.svg[canvas,size=contain]
+
+[%notitle]
+[background-color="white"]
+=== Melting Pot
+image::{imagedir}/feedback-on-diagnostics.svg[canvas,size=contain]
+
+[%notitle]
+[background-color="white"]
+=== Melting Pot
+image::{imagedir}/listening-to-tests.svg[canvas,size=contain]
+
+[%notitle]
+[background-color="white"]
+=== Melting Pot
+image::{imagedir}/tdd-with-acceptance-tests.svg[canvas,size=contain]
