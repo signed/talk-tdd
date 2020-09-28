@@ -1,25 +1,12 @@
 {
-  "name": "contract-tests",
+  "name": "@signed/talk-tdd",
   "version": "1.0.0",
-  "description": "template for my slides",
-  "main": "index.js",
+  "description": "Introduction to TDD",
   "scripts": {
-    "present": "node scripts/scribeV2.js"
+    "present": "scribe"
   },
   "private": true,
-  "dependencies": {
-    "asciidoctor-reveal.js": "2.0.0",
-    "asciidoctor.js": "1.5.9",
-    "fs-extra": "8.1.0"
-  },
   "devDependencies": {
-    "@types/node": "12.7.2",
-    "browser-sync": "2.26.7",
-    "chokidar": "3.0.2",
-    "opener": "1.5.1"
-  },
-  "volta": {
-    "node": "10.16.3",
-    "yarn": "1.17.3"
+    "@signed/scribe": "0.1.0"
   }
 }
